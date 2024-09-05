@@ -1,4 +1,4 @@
-# Parameter-Estimation-Project
+# Parameter-Estimation-Nonlinear-Systems
 Parameter Estimation for Nonlinear Systems: Three SIR-Related Models.
 
 
